@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<name>evenorodd</name>
 =======
 	<name>NaturalNumbers</name>
 >>>>>>> acc83a1 (natural numbers)
+=======
+	<name>Primenumber</name>
+>>>>>>> 7e9576c (prime number)
 	<comment></comment>
 	<projects>
 	</projects>
